@@ -9,5 +9,5 @@
 
 
 .. meta::
-    :title lang=en: Contents
-    :keywords lang=en: core libraries,ref search,shells,deployment,appendices,glossary,models
+    :title lang=en: Archive: 2012
+    :keywords lang=en: articles,archive,2012

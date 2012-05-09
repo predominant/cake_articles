@@ -1,15 +1,15 @@
 May
 ###
 
-Stuff
+Archives for May, 2012:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :glob:
 
-   2012/05/*
+   05/*
 
 
 .. meta::
-    :title lang=en: Contents
+    :title lang=en: Archive: May 2012
     :keywords lang=en: core libraries,ref search,shells,deployment,appendices,glossary,models

@@ -6,16 +6,6 @@ Archive
 
    2012
 
-.. todolist::
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 
 .. meta::
     :title lang=en: Contents
