@@ -1,20 +1,11 @@
-Archive
-########
+2012
+####
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
-   2012
-
-.. todolist::
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   2012/*
 
 
 .. meta::
