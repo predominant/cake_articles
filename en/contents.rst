@@ -3,8 +3,9 @@ Archive
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
-   2012
+   *
 
 
 .. meta::
